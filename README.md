@@ -136,16 +136,3 @@ __pycache__/
 ```
 
 `uploads/` and `outputs/` are generated automatically when the application runs.
-
-## Output
-
-Registration results are generated under:
-
-```text
-backend/outputs/
-```
-
-**Luna-tics — Lunar Image Registration & Analysis**
-
-```
-```
